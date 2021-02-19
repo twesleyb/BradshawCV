@@ -1,5 +1,5 @@
 ## Tyler W. A. Bradshaw
-tyler.w.bradshaw@duke.edu
+tyler.w.bradshaw@duke.edu | twesleyb10@gmail.com
 
 #### Neurobiology PhD Candidate in the [Soderling Laboratory](http://soderlinglab.cellbio.duke.edu/) at Duke University
 Department of Neurobiology | Duke University
@@ -41,7 +41,7 @@ Christina M. Catavero, Alain C. Burette, Richard J. Weinberg, and Scott H. Soder
 * __R__: 3 years
 * __Python__: 2 years
 * __Linux/Bash__: 2 years
-* __Latex__: 1 year
+* __LaTex__: 1 year
 
 ## Full resume and CV
 See my full resume here (these links don't work yet):
