@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.14)  18 FEB 2021 19:58
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.14)  23 MAR 2021 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -907,10 +907,6 @@ LaTeX Info: Redefining \nameref on input line 84.
 \@outlinefile=\write6
 \openout6 = `cv.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \headertextwidth=\skip82
 \headerphotowidth=\skip83
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -995,7 +991,7 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  31897 strings out of 481804
  628197 string characters out of 5937876
- 1057977 words of memory out of 5000000
+ 1058112 words of memory out of 5000000
  48332 multiletter control sequences out of 15000+600000
  535062 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
