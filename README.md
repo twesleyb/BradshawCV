@@ -1,11 +1,11 @@
-## Tyler W. A. Bradshaw
-tyler.w.bradshaw@duke.edu | twesleyb10@gmail.com
+## Tyler W. A. Bradshaw, PhD
+twesleyb10@gmail.com
 
-#### Neurobiology PhD Candidate in the [Soderling Laboratory](http://soderlinglab.cellbio.duke.edu/) at Duke University
+#### Neurobiology PhD graduate from the [Soderling Laboratory](http://soderlinglab.cellbio.duke.edu/) at Duke University
 Department of Neurobiology | Duke University
 
 ## Education
-* PhD __Duke University__ | 2016 - March 2021   
+* PhD __Duke University__ | 2016 - May 2021   
  _Department of Neurobiology_
 
 * BS __University of Washington__ | 2010 - 2014  
@@ -16,7 +16,7 @@ Department of Neurobiology | Duke University
 #### Genetic Disruption of WASHC4 Drives Endo-lysosomal Dysfunction and Cognitive-Movement Impairments in Mice and Humans.
 Jamie Courtland, __Tyler W.A. Bradshaw__, Greg Waitt, Erik Soderblom, Tricia Ho, Anna Rajab, 
 Ricardo Vancini, Il Hwan Kim, Scott Soderling.
-[Preprint.](https://www.biorxiv.org/content/10.1101/2020.08.06.239517v1)
+[eLife.](https://www.biorxiv.org/content/11.1101/2020.08.06.239517v1)
 In final publication at eLife.  
 
 
