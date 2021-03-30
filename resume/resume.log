@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.14)  21 FEB 2021 20:44
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.14)  30 MAR 2021 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -907,10 +907,6 @@ LaTeX Info: Redefining \nameref on input line 80.
 \@outlinefile=\write6
 \openout6 = `resume.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \headertextwidth=\skip82
 \headerphotowidth=\skip83
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -952,35 +948,34 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 4.
 ) (./resume/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 16.
+(Font)              scaled to size 10.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 16.
+(Font)              scaled to size 10.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 16.
+t line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 16.
+(Font)              scaled to size 9.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 16.
+(Font)              scaled to size 8.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 16.
+(Font)              scaled to size 8.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 16.
+(Font)              scaled to size 8.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 16.
+t line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 16.
+(Font)              scaled to size 8.0pt on input line 17.
 ) (./resume/honors.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 9.
 )
-(./resume/presentation.tex) (./resume/writing.tex) (./resume/education.tex)
-[1
+(./resume/presentation.tex) (./resume/writing.tex [1
 
-]
+]) (./resume/education.tex) [2]
 
 ! LaTeX Error: \begin{center} on input line 4 ended by \end{document}.
 
@@ -1007,10 +1002,10 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  31893 strings out of 481804
  628086 string characters out of 5937876
- 1055120 words of memory out of 5000000
+ 1057147 words of memory out of 5000000
  48330 multiletter control sequences out of 15000+600000
  535046 words of font info for 102 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  67i,11n,109p,799b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (1 page).
+Output written on resume.pdf (2 pages).
