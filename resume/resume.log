@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.14)  30 MAR 2021 16:44
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.14)  30 MAR 2021 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,8 +929,11 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 84.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 84.
+\photodim=\skip84
+File: ./profile.png Graphic file (type bmp)
+<./profile.png>
 
-Overfull \hbox (1.46pt too wide) in paragraph at lines 84--85
+Overfull \hbox (1.45999pt too wide) in paragraph at lines 84--85
 []$[]$ $[]$$[]$
  []
 
@@ -1000,12 +1003,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 ### semi simple group (level 1) entered at line 4 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31893 strings out of 481804
- 628086 string characters out of 5937876
- 1057147 words of memory out of 5000000
- 48330 multiletter control sequences out of 15000+600000
+ 31977 strings out of 481804
+ 630122 string characters out of 5937876
+ 1058228 words of memory out of 5000000
+ 48411 multiletter control sequences out of 15000+600000
  535046 words of font info for 102 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 67i,11n,109p,799b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,11n,109p,799b,861s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (2 pages).
