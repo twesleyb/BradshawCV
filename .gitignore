@@ -1,2 +1,6 @@
+# dirs to ignore
 ARCHIVE/
+downloads/
+
+# files to ignore
 *.sw*
