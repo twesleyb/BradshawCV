@@ -1,5 +1,9 @@
-%!TEX TS-program = xelatex
-%!TEX encoding = UTF-8 Unicode
+% title: resume.tex
+% author: twab
+% description:
+%
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
 % Awesome CV LaTeX Template for CV/Resume
 %
 % This template has been downloaded from:
@@ -11,8 +15,6 @@
 %
 % Template license:
 % CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-%
-
 
 %-------------------------------------------------------------------------------
 % CONFIGURATIONS
@@ -21,14 +23,14 @@
 \documentclass[11pt, a4paper]{awesome-cv}
 
 % Configure page margins with geometry
-\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=0.8cm, footskip=.5cm}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
 
 % Color for highlights
-% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
-%                 awesome-nephritis, awesome-concrete, awesome-darknight
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink,
+% awesome-orange, awesome-nephritis, awesome-concrete, awesome-darknight
 \colorlet{awesome}{awesome-skyblue}
 % Uncomment if you would like to specify your own color
 % \definecolor{awesome}{HTML}{CA63A8}
@@ -43,7 +45,8 @@
 % Set false if you don't want to highlight section with awesome color
 \setbool{acvSectionColorHighlight}{false}
 
-% If you would like to change the social information separator from a pipe (|) to something else
+% If you would like to change the social information separator from a pipe (|)
+% to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 
 
@@ -52,8 +55,8 @@
 %	Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
-\photo[rectangle,edge,right]{./profile.png}
-\name{Tyler Wesley Andrew}{Bradshaw, PhD}
+%\photo[rectangle,edge,right]{./profile.png}
+\name{Tyler}{Bradshaw, PhD}
 \position{Department of Neurobiology, Duke University}
 \address{Durham NC, USA}
 
@@ -73,7 +76,7 @@
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra informations}
 
-\quote{"Know where you've been and where you're going."}
+%\quote{"Know where you've been and where you're going."}
 
 
 %-------------------------------------------------------------------------------
@@ -92,18 +95,12 @@
 
 
 %-------------------------------------------------------------------------------
-%	CV/RESUME CONTENT
-%	Each section is imported separately, open each file in turn to modify content
+%	CV/RESUME CONTENT Each section is imported separately, open each file in
+%	turn to modify content
 %-------------------------------------------------------------------------------
-\input{resume/summary.tex}
-\input{resume/experience.tex}
-\input{resume/honors.tex}
-\input{resume/presentation.tex}
-\input{resume/writing.tex}
-%\input{resume/committees.tex}
-\input{resume/education.tex}
-%\input{resume/extracurricular.tex}
+\input{tex/summary.tex}
+\input{tex/experience.tex}
+\input{tex/skills.tex}
+\input{tex/education.tex}
 
-
-%-------------------------------------------------------------------------------
 \end{document}
