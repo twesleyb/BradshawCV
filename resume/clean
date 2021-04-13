@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm resume.pdf
+rm resume.out
+rm resume.aux
+rm resume.log
