@@ -43,7 +43,7 @@ Christina M. Catavero, Alain C. Burette, Richard J. Weinberg, and Scott H. Soder
 * __R__: 3 years
 * __Python__: 2 years
 * __Linux/Bash__: 2 years
-* __LaTex__: 1+ year
+* __LaTeX__: 1+ year
 
 ## Full resume and CV
 * [Resume](./resume/resume.pdf)
