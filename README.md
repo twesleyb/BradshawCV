@@ -5,11 +5,11 @@ twesleyb10@gmail.com
 Departments of Cell Biology and Neurobiology | Duke University
 
 ## Education
-* Doctor of Philosophy (PhD) | __Department of Neurobiology, Duke University__ | Fall 2016 - May 2021   
+* Doctor of Philosophy (PhD), __Department of Neurobiology, Duke University__ j Fall 2016 - May 2021   
 > _Statistical Inference and Community Detection in Proximity and Spatial Proteomics_   
 > [Thesis Abstract](./docs/thesis_abstract.pdf) | [Slides](./docs/defense_slides.pdf)
 
-* Bachelor of Science (BS) | __Cellular, Molecular, and Developmental Biology, University of Washington__ | 
+* Bachelor of Science (BS), __Cellular, Molecular, and Developmental Biology, University of Washington__ | 
 Fall 2010 - Spring 2014  
 
 ## Publications
